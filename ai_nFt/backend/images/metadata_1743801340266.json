@@ -1,0 +1,23 @@
+{
+  "name": "AI NFT: lord shiva playing guitar...",
+  "description": "lord shiva playing guitar",
+  "image": "http://localhost:3001/images/image_1743801340266.png",
+  "attributes": [
+    {
+      "trait_type": "Generator",
+      "value": "Stable Diffusion"
+    },
+    {
+      "trait_type": "Prompt",
+      "value": "lord shiva playing guitar"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "jfmin7oVCx2ub4ZJxef8JEq8cY2Tq1LPJqJMXNtGXER"
+    },
+    {
+      "trait_type": "Generation Date",
+      "value": "2025-04-04T21:15:40.278Z"
+    }
+  ]
+}

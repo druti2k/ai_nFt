@@ -1,0 +1,23 @@
+{
+  "name": "AI NFT: ma kali...",
+  "description": "ma kali",
+  "image": "http://localhost:3001/images/image_1743803315857.png",
+  "attributes": [
+    {
+      "trait_type": "Generator",
+      "value": "Stable Diffusion"
+    },
+    {
+      "trait_type": "Prompt",
+      "value": "ma kali"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "jfmin7oVCx2ub4ZJxef8JEq8cY2Tq1LPJqJMXNtGXER"
+    },
+    {
+      "trait_type": "Generation Date",
+      "value": "2025-04-04T21:48:35.870Z"
+    }
+  ]
+}
